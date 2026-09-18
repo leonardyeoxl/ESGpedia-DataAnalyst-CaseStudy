@@ -1,0 +1,6 @@
+check,detail,count
+companies_with_no_submitted_data,Horizon Property Group Ltd.; Indigo Ventures Pte. Ltd.; Jade Estate Holdings Ltd.; Kestrel Properties Pte. Ltd.; Luminary Real Estate Ltd.; Meridian Asset Group Pte. Ltd.; Nexus Hospitality Holdings Ltd.,7
+negative_value_rows,"metrics: Newater, Potable water, Electricity",22
+zero_value_rows,"metrics: Electricity, Diesel, Newater, Metals, Mixed recyclables, Other waste, Plastics average plastics, Waste paper unsorted, Weee small, Potable water, Water supply",368
+sparse_metrics_3_or_fewer_points,Food waste; Plastics waste,2
+company_year_coverage_detail,see company_year_coverage.csv,7
